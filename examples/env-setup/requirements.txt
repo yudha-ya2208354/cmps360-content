@@ -19,6 +19,7 @@ plotly>=7.1.0
 
 # Machine learning
 scikit-learn>=1.9.1
+imbalanced-learn>=0.14.0
 
 # Interactive computing
 jupyterlab>=4.6.3
